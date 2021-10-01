@@ -1,0 +1,1 @@
+# strykerjs-typescript-checker-poc
