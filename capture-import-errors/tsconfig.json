@@ -1,0 +1,11 @@
+{
+    "exclude": ["testfiles/"],
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "strict": true,
+        "target": "es5",
+        "outDir": "dist",
+        "sourceMap": true,
+        "downlevelIteration": true
+    }
+}
